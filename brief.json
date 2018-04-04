@@ -1,0 +1,14 @@
+{
+  "description": "Módulo de internacionalização and localização",
+  "name": "i18n",
+  "path": "dist",
+  "version": "0.0.1",
+  "author": "Leonardo Delfino",
+  "contributors": [
+  ],
+  "dependencies": {
+    "bitcodes" : [
+      "leonardodelfino/thrustjs-mustache"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Módulo de testes do i18n",
+  "author": "Leonardo Delfino",
+  "dependencies": {
+    "bitcodes": [
+      "thrust-bitcodes/majesty",
+      "leonardodelfino/thrustjs-mustache"
+    ]
+  }
+}
